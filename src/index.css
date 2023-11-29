@@ -1,0 +1,19 @@
+* {
+  font-family: 'MedievalSharp', cursive;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+  color: #24FF00;
+  transition: .5s;
+}
+
+a:hover {
+  color: #148e02;
+}
